@@ -1,10 +1,10 @@
-first = 12
-second = 13
+first = 3
+second = 2
 third = int(input('Число: '))
 
 if second==third and first==third:
     print(3)
-elif second==first or second==third:
+elif second==third or first==third:
     print(2)
 else:
     print(0)
