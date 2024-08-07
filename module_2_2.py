@@ -1,6 +1,6 @@
 first = 13
 second = 13
-third = int(input('Число: '))
+third = 13
 
 if second==third and first==third:
     print(3)
